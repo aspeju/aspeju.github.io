@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.home {
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+.image-logo {
+    width: 250px;
+}
