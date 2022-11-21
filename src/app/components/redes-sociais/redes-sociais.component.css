@@ -1,0 +1,18 @@
+.social-medias {
+    background: #E2312B;
+    padding: 10px;
+}
+.social-medias ul {
+    list-style: none;
+    display: inline-flexbox;
+}
+
+.social-medias ul li {
+    display: inline;
+    margin: 10px;
+}
+
+.social-medias ul li a {
+    text-decoration: none;
+    color: #ffffff;
+}
